@@ -412,7 +412,7 @@ def pilih_super():
 	p.map(main, id)
 	print 42*"\033[1;96m="
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mArbabMemon+923003023263\033[1;97m....'
-	print"\033[1;96m[+] \033[1;92mTotal Chudhey howe/\x1b[1;93mCp Ids Open After 2 Days In fb lite\033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
+	print"\033[1;96m[+] \033[1;92mTotall IdS/\x1b[1;93mCp Ids Open After 2 Days In fb lite\033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
